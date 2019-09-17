@@ -1,0 +1,29 @@
+body {
+  font-family: lem/1.4 "Agency FB", Arial, sans-serif;
+  background-color: #2b040c;
+  }
+  h1 {
+  font-style: normal;
+  font-weight: bold;
+  color: #d8d1d2;
+  font-family: "Gill Sans MT Ext Condensed Bold", sans-serif;
+  font-size: 120px;
+}
+  h3 {
+  font-family: "Gill Sans MT Ext Condensed Bold" , sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 40px;
+  color: #910f07;
+}
+
+h2 {
+  font-size: 40px;
+}
+p {
+  font-family: "Agency FB",
+}
+
+header {
+  display: inline;
+}
